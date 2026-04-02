@@ -26,4 +26,4 @@
 
 ---
 📫 **Conecte-se comigo:**
-[LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN) | [E-mail](mailto:rubensdat@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rubens-serafim/) | [E-mail](mailto:rubensdat@gmail.com)
