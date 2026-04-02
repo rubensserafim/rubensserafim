@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Rubens Serafim 👋
 
-<!--
-**rubensserafim/rubensserafim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista e Desenvolvedor focado em soluções robustas, automação e infraestrutura Linux. Atualmente, contribuo para projetos de modernização tecnológica e gestão de sistemas complexos.
 
-Here are some ideas to get you started:
+### 🛠️ No que eu trabalho:
+* **Backend & Automação:** Desenvolvimento de scripts e sistemas para otimização de processos.
+* **Infraestrutura:** Gestão de ambientes Linux, redes e segurança (RTSP/ONVIF).
+* **Gestão de Dados:** Implementação de integridade de dados e sistemas de arquivos via hash.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e Ferramentas:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 📊 Estatísticas:
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rubensserafim&show_icons=true&theme=dracula)
+
+---
+📫 **Como me encontrar:**
+[LinkedIn](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI) | [E-mail](mailto:rubensdat@gmail.com)
