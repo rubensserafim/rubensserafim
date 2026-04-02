@@ -21,10 +21,10 @@ Analista Desenvolvedor Full Stack Sênior com mais de 10 anos de experiência em
 * **Certificação:** Java - Oracle Certified Foundations Associate.
 
 ### 📊 Estatísticas
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubensserafim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensserafim&layout=compact&theme=dracula" />
-</p>
+
+![Estatísticas de Rubens](https://github-readme-stats.vercel.app/api?username=rubensserafim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rubensserafim&layout=compact&theme=dracula)
 
 ---
 📫 **Conecte-se comigo:**
