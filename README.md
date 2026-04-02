@@ -28,4 +28,4 @@ Analista Desenvolvedor Full Stack Sênior com mais de 10 anos de experiência em
 
 ---
 📫 **Conecte-se comigo:**
-[LinkedIn](https://www.linkedin.com/in/rubens-serafim-a8b2b734/) | [E-mail](mailto:rubensdat@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rubens-serafim-0925aa182) | [E-mail](mailto:rubensdat@gmail.com)
